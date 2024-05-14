@@ -1,5 +1,5 @@
 <h1 align="center"> Conversor de moneda - Java</h1>
-[![java-Banner.png](https://i.postimg.cc/ZKKrBD9n/java-Banner.png)](https://postimg.cc/Btk8RpBf)
+![java-Banner](https://user-images.githubusercontent.com/75398496/207724942-63144136-1e1f-45c7-83bd-e588e19cf692.png)
 
 ## Descripcion
 Este proyecto es un conversor de divisas que utiliza la API de ExchangeRate-API, permite al usuario realizar la conversión de monedas al tipo de cambio actualizado a la fecha, según las opciones propuestas en Menú. Así mismo el usuario podrá acceder al final de la consulta o consultas a un historial con los tipos de cambio solicitados.
@@ -37,28 +37,27 @@ Este proyecto es un conversor de divisas que utiliza la API de ExchangeRate-API,
 ## Demostracion de la aplicacion
 ### Menu
 #### 1.  Inicio al sistema.
-[![Menu]()](https://github.com/edy-git/conversor-de-moneda/blob/main/img/01-menu.png?raw=true)
+![Menu](https://github.com/edy-git/conversor-de-moneda/blob/main/img/01-menu.png?raw=true)
 #### 2. Selección del Usuario de moneda a convertir
-[![Opciones]()](https://github.com/edy-git/conversor-de-moneda/blob/main/img/02-opciones-consulta1.png?raw=true)
+![Opciones](https://github.com/edy-git/conversor-de-moneda/blob/main/img/02-opciones-consulta1.png?raw=true)
 #### 3. Resultado de la conversión seleccionada
-[![ResultadoConverion1]()](https://github.com/edy-git/conversor-de-moneda/blob/main/img/03-resultado-consulta.png?raw=true)
+![ResultadoConverion1](https://github.com/edy-git/conversor-de-moneda/blob/main/img/03-resultado-consulta.png?raw=true)
 #### 4. Segunda Conversion del usuario
-[![opciones2]()](https://github.com/edy-git/conversor-de-moneda/blob/main/img/04-opciones-consulta2.png?raw=true)
+![opciones2](https://github.com/edy-git/conversor-de-moneda/blob/main/img/04-opciones-consulta2.png?raw=true)
 #### 5. Resultado de la segunda conversión
-[![ResultadoConversion2]()](https://github.com/edy-git/conversor-de-moneda/blob/main/img/05-resultado-consulta2.png?raw=true)
+![ResultadoConversion2](https://github.com/edy-git/conversor-de-moneda/blob/main/img/05-resultado-consulta2.png?raw=true)
 #### 6. Histórial de consulta de conversiones
-[![Historial]()](https://github.com/edy-git/conversor-de-moneda/blob/main/img/06-historial-consultas-despedida.png?raw=true)
+![Historial](https://github.com/edy-git/conversor-de-moneda/blob/main/img/06-historial-consultas-despedida.png?raw=true)
 #### 7. Control de Errores
 En este proyecto, se ha prestado especial atención al manejo de errores para garantizar un comportamiento robusto y una experiencia de usuario fluida. A continuación, se mostrara el manejo de errores que se han implementado.
 
-
 >[!CAUTION]
 >- Error al intentar ingresar un valor fuera del menú.
->- [!ErrorValor()](https://github.com/edy-git/conversor-de-moneda/blob/main/img/07-manejo-exception.png?raw=true)
+>- ![ErrorValor](https://github.com/edy-git/conversor-de-moneda/blob/main/img/07-manejo-exception.png?raw=true)
 >- Error al intentar ingresar caracteres desconocidos al menu.
->- [!ErrorCaracter()](https://github.com/edy-git/conversor-de-moneda/blob/main/img/08-manejo-exception1.png?raw=true)
+>- ![ErrorCaracter](https://github.com/edy-git/conversor-de-moneda/blob/main/img/08-manejo-exception1.png?raw=true)
 >- Error al intentar ingresar caracteres desconocidos, o numeros con comas al valor que se desea convertir.
->- [!ErrorValor()](https://github.com/edy-git/conversor-de-moneda/blob/main/img/09-manejo-exception2.png?raw=true)
+>- ![ErrorValor](https://github.com/edy-git/conversor-de-moneda/blob/main/img/09-manejo-exception2.png?raw=true)
 
 ##### 7.1 Captura de Excepciones
 Se han implementado bloques try-catch para capturar excepciones y manejarlas adecuadamente.
@@ -76,8 +75,8 @@ Se han implementado bloques try-catch para capturar excepciones y manejarlas ade
 Este proyecto fue creado por: Eduardo Argana Rodriguez.
 
 >[!IMPORTANT]
-¡Siéntete libre de contactarme si tienes alguna pregunta o sugerencia!
-[LinkedIn][2]
+>¡Siéntete libre de contactarme si tienes alguna pregunta o sugerencia!
+>[LinkedIn][2]
 
 ## End
 [1]: https://www.exchangerate-api.com/ "ExchangeRate-API"
