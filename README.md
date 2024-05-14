@@ -1,5 +1,5 @@
 <h1 align="center"> Conversor de moneda - Java</h1>
-![Imagende portada Java](https://user-images.githubusercontent.com/75398496/207724942-63144136-1e1f-45c7-83bd-e588e19cf692.png)
+[![java-Banner.png](https://i.postimg.cc/ZKKrBD9n/java-Banner.png)](https://postimg.cc/Btk8RpBf)
 
 ## Descripcion
 Este proyecto es un conversor de divisas que utiliza la API de ExchangeRate-API, permite al usuario realizar la conversión de monedas al tipo de cambio actualizado a la fecha, según las opciones propuestas en Menú. Así mismo el usuario podrá acceder al final de la consulta o consultas a un historial con los tipos de cambio solicitados.
