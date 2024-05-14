@@ -1,5 +1,6 @@
 <h1 align="center"> Conversor de moneda - Java</h1>
-![java-Banner](https://user-images.githubusercontent.com/75398496/207724942-63144136-1e1f-45c7-83bd-e588e19cf692.png)
+
+![java-Banner](https://github.com/edy-git/conversor-de-moneda/blob/main/img/javaBanner.png?raw=true)
 
 ## Descripcion
 Este proyecto es un conversor de divisas que utiliza la API de ExchangeRate-API, permite al usuario realizar la conversión de monedas al tipo de cambio actualizado a la fecha, según las opciones propuestas en Menú. Así mismo el usuario podrá acceder al final de la consulta o consultas a un historial con los tipos de cambio solicitados.
@@ -38,11 +39,11 @@ Este proyecto es un conversor de divisas que utiliza la API de ExchangeRate-API,
 ### Menu
 #### 1.  Inicio al sistema.
 ![Menu](https://github.com/edy-git/conversor-de-moneda/blob/main/img/01-menu.png?raw=true)
-#### 2. Selección del Usuario de moneda a convertir
+#### 2. Selección del usuario de la moneda a convertir
 ![Opciones](https://github.com/edy-git/conversor-de-moneda/blob/main/img/02-opciones-consulta1.png?raw=true)
 #### 3. Resultado de la conversión seleccionada
 ![ResultadoConverion1](https://github.com/edy-git/conversor-de-moneda/blob/main/img/03-resultado-consulta.png?raw=true)
-#### 4. Segunda Conversion del usuario
+#### 4. Segunda conversion del usuario
 ![opciones2](https://github.com/edy-git/conversor-de-moneda/blob/main/img/04-opciones-consulta2.png?raw=true)
 #### 5. Resultado de la segunda conversión
 ![ResultadoConversion2](https://github.com/edy-git/conversor-de-moneda/blob/main/img/05-resultado-consulta2.png?raw=true)
