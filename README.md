@@ -73,11 +73,11 @@ Se han implementado bloques try-catch para capturar excepciones y manejarlas ade
 ¡Siéntete libre de contribuir al proyecto! Si tienes ideas para nuevas características, mejoras en el código o correcciones de errores, abre un pull request y estaré encantado de revisarlo.
 
 ## Autor
-Este proyecto fue creado por: Eduardo Argana Rodriguez.
+Este proyecto fue creado por: Eduardo Argana R.
 
 >[!IMPORTANT]
->¡Siéntete libre de contactarme si tienes alguna pregunta o sugerencia!
->[LinkedIn][2]
+¡Siéntete libre de contactarme si tienes alguna pregunta o sugerencia!
+>- [LinkedIn][2]
 
 ## End
 [1]: https://www.exchangerate-api.com/ "ExchangeRate-API"
